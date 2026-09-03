@@ -1,0 +1,58 @@
+about:
+  description: A tool for glamorous shell scripts 🎀
+  license: MIT
+  homepage: 
+  head: 4d089f9
+  archived: false
+  latestVersion: v2.0.0
+  collectedAt: 2026-09-03T03:34:55Z
+timeline:
+  created: 2022-06-10
+  lastCommit: 2026-08-20
+  lastRelease: 2026-08-20
+popularity:
+  star: 24328
+  watcher: 66
+  fork: 549
+  release: 27
+  contributor: 77
+  pullRequest: 188
+  issue: 478
+language:
+  Go: 168090
+  Nix: 765
+  Dockerfile: 94
+totalLine: 168949
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 4
+    openPR: 12
+    closedIssue: 0
+    openIssue: 7
+    commit: 4
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 5
+    openPR: 20
+    closedIssue: 0
+    openIssue: 18
+    commit: 5
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 15
+    openPR: 37
+    closedIssue: 0
+    openIssue: 21
+    commit: 17
+  last360d:
+    since: 2025-09-08
+    release: 1
+    mergedPR: 24
+    openPR: 47
+    closedIssue: 2
+    openIssue: 44
+    commit: 28
