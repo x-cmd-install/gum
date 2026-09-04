@@ -7,7 +7,7 @@ about:
   head: 4d089f9
   archived: false
   latestVersion: v2.0.0
-  collectedAt: 2026-09-04T19:19:02Z
+  collectedAt: 2026-09-04T21:14:05Z
 timeline:
   created: 2022-06-10
   lastCommit: 2026-08-20
@@ -82,6 +82,59 @@ total:
   openIssue: 141
   commit: 680
 ---
+path: /home/runner/.x-repo/github.com/charmbracelet/gum
+collectedAt: 2026-09-04T21:14:06Z
+loc:
+  Go:
+    code: 4581
+    comments: 543
+    blanks: 634
+    files: 59
+  Sh:
+    code: 232
+    comments: 99
+    blanks: 104
+    files: 12
+  Nix:
+    code: 25
+    comments: 0
+    blanks: 6
+    files: 2
+  Ruby:
+    code: 24
+    comments: 0
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 9
+    comments: 0
+    blanks: 4
+    files: 1
+  Python:
+    code: 4
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 302
+    blanks: 168
+    files: 3
+  Text:
+    code: 0
+    comments: 14
+    blanks: 0
+    files: 4
+total:
+  code: 4976
+  comments: 981
+  blanks: 939
+  files: 84
 ---
 date: "2026-08-24"
 repo:
