@@ -5,13 +5,13 @@ about:
   head: 4d089f9
   archived: false
   latestVersion: "v2.0.0"
-  collectedAt: 2026-09-07T05:27:05Z
+  collectedAt: 2026-09-07T18:58:06Z
 timeline:
   created: 2022-06-10
   lastCommit: 2026-08-20
   lastRelease: 2026-08-20
 popularity:
-  star: 24343
+  star: 24346
   watcher: 67
   fork: 547
   release: 27
@@ -81,7 +81,7 @@ total:
   commit: 680
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/gum
-collectedAt: 2026-09-07T05:27:06Z
+collectedAt: 2026-09-07T18:58:06Z
 loc:
   Go:
     code: 4581
@@ -236,7 +236,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:06+00:00
+  collectedAt: 2026-09-07T18:58:07+00:00
   platform:
     darwin/arm64:
       name:  gum_2.0.0_Darwin_arm64.tar.gz
