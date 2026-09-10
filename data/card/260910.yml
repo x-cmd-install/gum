@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0"
   latestRelease: "v2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:32:39Z
+  collectedAt: 2026-09-10T23:55:32Z
 timeline:
   created: 2022-06-10
   lastCommit: 2026-08-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 24358
+  star: 24359
   watcher: 67
   fork: 545
   release: 27
@@ -85,7 +85,7 @@ total:
   commit: 680
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/gum
-collectedAt: 2026-09-10T17:32:39Z
+collectedAt: 2026-09-10T23:55:33Z
 loc:
   Go:
     code: 4581
