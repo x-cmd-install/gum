@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6335,
       "digest": "sha256:9a3a96b61b9020b463fd585fe65c3370686ed690437fc7437897e438a842618d",
-      "download_count": 5383,
+      "download_count": 6362,
       "created_at": "2026-09-11T05:30:35Z",
       "updated_at": "2026-09-11T05:30:35Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10189,
       "digest": "sha256:3ea3e53cbd84ef39095e09716013cd1a82f4c439a47a3ab1adfd8b0df5e05d54",
-      "download_count": 3690,
+      "download_count": 4363,
       "created_at": "2026-09-11T05:30:35Z",
       "updated_at": "2026-09-11T05:30:35Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4542686,
       "digest": "sha256:fa7111391024c64976969a40fdadc6735d1028ab52bc1676e0756d425985dd9b",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:34Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4747062,
       "digest": "sha256:a98354fae1d2224d76bb5705f790b5d8010c0bf56ca8dd95cddd04ca1fb1f13e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1-1.armv6hl.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4737817,
       "digest": "sha256:9b21cc429cc08b0f80b4f04a3c60ea9f9c7905c55dbc3ca2c1811b8cd59cc199",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1-1.armv7hl.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4684983,
       "digest": "sha256:f2651eb2fcb0fe7fbf5d511ae947e14dabf769e1a66950a292508e82ee40c551",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:34Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1-1.i386.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4961557,
       "digest": "sha256:9ff297af1130ee4f70b72f1c902dbf47082f5ff112db06afbb02bd9968d2ca6c",
-      "download_count": 21,
+      "download_count": 27,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:34Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1-1.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 71670,
       "digest": "sha256:632772eb652ed46be1445f730cfba068f56e3777bc5029f32ffd137dbdbfa9ac",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 107488,
       "digest": "sha256:ee63d78c1bf4be93cf9d33c8c841ec03dbd74cfd7929ce136f82256ea934a183",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-11T05:30:34Z",
       "updated_at": "2026-09-11T05:30:34Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum-2.0.1.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4747786,
       "digest": "sha256:938e73de310d27d4363e71209416b7373730cdfa259d0070bf33d5fba9febdbe",
-      "download_count": 40,
+      "download_count": 44,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_aarch64.apk"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4957784,
       "digest": "sha256:efbc27929549419f1f4a8cf3ad186dde3669ac96dcac6445e8ebad1155a37a4a",
-      "download_count": 159,
+      "download_count": 192,
       "created_at": "2026-09-11T05:30:34Z",
       "updated_at": "2026-09-11T05:30:34Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_amd64.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4955107,
       "digest": "sha256:889e4a63a1216d0c5017e76a0358f799a7c6669205ce0fd95ef4872497f37ec2",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_armv7.apk"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4713633,
       "digest": "sha256:994662daab6fcfe9dcfc57d87ca42bcae2948d86fa864f9010a3848fa9bb7d6e",
-      "download_count": 2111,
+      "download_count": 2546,
       "created_at": "2026-09-11T05:30:31Z",
       "updated_at": "2026-09-11T05:30:32Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Darwin_arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5136508,
       "digest": "sha256:4d125b60fbaa28ef1674bb16f3859ed4e813acb027a79d24603b598ea4a0b71f",
-      "download_count": 657,
+      "download_count": 772,
       "created_at": "2026-09-11T05:30:31Z",
       "updated_at": "2026-09-11T05:30:32Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Darwin_x86_64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 4543575,
       "digest": "sha256:6998202a8fea27bb2007f69e44ec5dcb4cff5268c62d995de857eee0e2cd52cb",
-      "download_count": 2429,
+      "download_count": 2810,
       "created_at": "2026-09-11T05:30:31Z",
       "updated_at": "2026-09-11T05:30:32Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Linux_arm64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 4963930,
       "digest": "sha256:4dfe4547f960813864c803b3617aa64427fa32ca566707fde949e08975297c48",
-      "download_count": 27933,
+      "download_count": 32591,
       "created_at": "2026-09-11T05:30:31Z",
       "updated_at": "2026-09-11T05:30:32Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Linux_x86_64.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 72190,
       "digest": "sha256:b56a42f7d564a8fb5455980454585c56436a336527772dff85b880424aa90937",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-11T05:30:34Z",
       "updated_at": "2026-09-11T05:30:35Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Linux_x86_64.tar.gz.sbom.json"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5093772,
       "digest": "sha256:1d5e49d02339c185849992f4d1c49af337ac84933360341e3588100d34664f38",
-      "download_count": 929,
+      "download_count": 1075,
       "created_at": "2026-09-11T05:30:33Z",
       "updated_at": "2026-09-11T05:30:33Z",
       "browser_download_url": "https://github.com/charmbracelet/gum/releases/download/v2.0.1/gum_2.0.1_Windows_x86_64.zip"
