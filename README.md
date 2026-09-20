@@ -4,7 +4,7 @@
 
 A tool for glamorous shell scripts 🎀
 
-![gum](https://repo.x-cmd.io/gum.svg)
+[![x-cmd/install — gum Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gum.svg)](https://x-cmd.com/install/gum)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,394 · **Forks**: 549 · **Open issues**: 481 · **Contributors**: 77
+- **Stars**: 24,399 · **Forks**: 548 · **Open issues**: 481 · **Contributors**: 77
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 3 | 16 | 0 | 10 | 1 |
-| last60d | 2026-07-20 | 2 | 5 | 18 | 0 | 14 | 5 |
-| 90d | 2026-06-20 | 2 | 5 | 23 | 0 | 20 | 5 |
-| last180d | 2026-03-22 | 2 | 14 | 41 | 0 | 23 | 16 |
-| 360d | 2025-09-23 | 2 | 25 | 51 | 2 | 43 | 29 |
-| last720d | 2024-09-28 | 9 | 163 | 63 | 48 | 97 | 189 |
+| 30d | 2026-08-21 | 1 | 1 | 16 | 0 | 10 | 1 |
+| last60d | 2026-07-22 | 2 | 5 | 18 | 0 | 14 | 5 |
+| 90d | 2026-06-22 | 2 | 5 | 23 | 0 | 20 | 5 |
+| last180d | 2026-03-24 | 2 | 14 | 40 | 0 | 23 | 16 |
+| 360d | 2025-09-25 | 2 | 25 | 51 | 2 | 42 | 29 |
+| last720d | 2024-09-30 | 9 | 163 | 63 | 48 | 97 | 189 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for gum lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:49:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:55:01Z._
