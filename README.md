@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,615 · **Forks**: 566 · **Open issues**: 489 · **Contributors**: 78
+- **Stars**: 24,600 · **Forks**: 568 · **Open issues**: 490 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 398 · **Open PRs**: 82 · **Closed issues**: 342 · **Open issues**: 147 · **Commits**: 684
+- **Releases**: 29 · **Merged PRs**: 398 · **Open PRs**: 82 · **Closed issues**: 343 · **Open issues**: 147 · **Commits**: 684
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 12 | 1 | 7 | 0 |
-| last60d | 2026-09-14 | 1 | 1 | 20 | 1 | 8 | 1 |
-| 90d | 2026-08-15 | 3 | 4 | 34 | 3 | 16 | 5 |
-| last180d | 2026-05-17 | 3 | 7 | 48 | 3 | 27 | 7 |
-| 360d | 2025-11-18 | 3 | 24 | 64 | 4 | 37 | 28 |
-| last720d | 2024-11-23 | 10 | 145 | 80 | 38 | 98 | 167 |
+| 30d | 2026-10-15 | 0 | 0 | 12 | 1 | 7 | 0 |
+| last60d | 2026-09-15 | 1 | 1 | 20 | 1 | 8 | 1 |
+| 90d | 2026-08-16 | 3 | 4 | 34 | 3 | 16 | 5 |
+| last180d | 2026-05-18 | 3 | 7 | 48 | 3 | 27 | 7 |
+| 360d | 2025-11-19 | 3 | 24 | 64 | 4 | 37 | 28 |
+| last720d | 2024-11-24 | 10 | 145 | 80 | 38 | 98 | 167 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for gum lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:43:53Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:46:36Z._
