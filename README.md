@@ -26,7 +26,7 @@ Total: **4,878** lines of code across **75** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 24,609 · **Forks**: 646 · **Open issues**: 492 · **Contributors**: 78
+- **Stars**: 24,619 · **Forks**: 681 · **Open issues**: 492 · **Contributors**: 78
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 8 | 1 | 8 | 0 |
-| last60d | 2026-09-18 | 1 | 1 | 21 | 1 | 10 | 1 |
-| 90d | 2026-08-19 | 3 | 4 | 35 | 3 | 18 | 2 |
-| last180d | 2026-05-21 | 3 | 7 | 48 | 3 | 29 | 7 |
-| 360d | 2025-11-22 | 3 | 24 | 64 | 4 | 39 | 28 |
-| last720d | 2024-11-27 | 10 | 142 | 80 | 38 | 100 | 163 |
+| 30d | 2026-10-20 | 0 | 0 | 7 | 1 | 7 | 0 |
+| last60d | 2026-09-20 | 1 | 1 | 20 | 1 | 10 | 1 |
+| 90d | 2026-08-21 | 2 | 2 | 35 | 3 | 18 | 2 |
+| last180d | 2026-05-23 | 3 | 7 | 47 | 3 | 29 | 7 |
+| 360d | 2025-11-24 | 3 | 24 | 64 | 4 | 39 | 28 |
+| last720d | 2024-11-29 | 10 | 142 | 80 | 38 | 100 | 162 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for gum lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:21:02Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:14:39Z._
