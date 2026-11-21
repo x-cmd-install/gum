@@ -14,11 +14,11 @@ x install gum
 
 ## Code insight
 
-Total: **4,878** lines of code across **75** files in the top 5 languages.
+Total: **4,888** lines of code across **75** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,581 | 543 | 634 | 59 |
+| Go | 4,591 | 543 | 634 | 59 |
 | Sh | 232 | 99 | 104 | 12 |
 | Nix | 25 | 0 | 6 | 2 |
 | Ruby | 24 | 0 | 5 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.2` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-11-20
 - **Assets in release**: 67
 
 ## Popularity
 
-- **Stars**: 24,625 · **Forks**: 686 · **Open issues**: 492 · **Contributors**: 78
+- **Stars**: 24,632 · **Forks**: 684 · **Open issues**: 492 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 398 · **Open PRs**: 82 · **Closed issues**: 343 · **Open issues**: 149 · **Commits**: 684
+- **Releases**: 29 · **Merged PRs**: 399 · **Open PRs**: 81 · **Closed issues**: 343 · **Open issues**: 149 · **Commits**: 686
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 7 | 1 | 7 | 0 |
-| last60d | 2026-09-21 | 1 | 1 | 19 | 1 | 10 | 1 |
-| 90d | 2026-08-22 | 2 | 2 | 35 | 2 | 18 | 2 |
-| last180d | 2026-05-24 | 3 | 7 | 47 | 3 | 29 | 7 |
-| 360d | 2025-11-25 | 3 | 24 | 64 | 4 | 39 | 28 |
-| last720d | 2024-11-30 | 10 | 142 | 80 | 38 | 100 | 162 |
+| 30d | 2026-10-22 | 0 | 0 | 7 | 1 | 7 | 2 |
+| last60d | 2026-09-22 | 1 | 1 | 19 | 1 | 10 | 3 |
+| 90d | 2026-08-23 | 2 | 3 | 32 | 2 | 18 | 4 |
+| last180d | 2026-05-25 | 3 | 8 | 46 | 3 | 29 | 9 |
+| 360d | 2025-11-26 | 3 | 25 | 63 | 4 | 39 | 30 |
+| last720d | 2024-12-01 | 10 | 143 | 79 | 38 | 100 | 164 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for gum lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:17:02Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:38:05Z._
